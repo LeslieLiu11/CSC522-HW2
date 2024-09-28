@@ -1,0 +1,16 @@
+﻿Income Level,Credit Score,Employment Status,Loan Amount,Approved
+High,Bad,Full-time,High,Yes
+Medium,Bad,Full-time,Medium,No
+Low,Bad,Part-time,Low,No
+Low,Bad,Part-time,Low,No
+Low,Bad,Self-employed,High,No
+High,Bad,Self-employed,Medium,Yes
+Medium,Good,Full-time,High,No
+High,Good,Full-time,High,Yes
+High,Good,Full-time,Low,Yes
+Low,Good,Full-time,Low,Yes
+Medium,Good,Full-time,Medium,Yes
+Low,Good,Part-time,High,No
+Medium,Good,Part-time,Medium,Yes
+Medium,Good,Self-employed,High,Yes
+Medium,Good,Self-employed,Low,Yes
